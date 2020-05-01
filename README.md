@@ -26,4 +26,4 @@ The container can be restarted with the below command (again the current host ma
 
 ## Use of databases
 
-Out of the box the image uses SQLite as database management system. The library Psycopg2 is included to enable the external use of Postgresql.
+Out of the box the image uses SQLite as database management system. The library Psycopg2 is included to enable the external use of the Postgresql database management system.
