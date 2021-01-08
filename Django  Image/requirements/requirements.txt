@@ -4,7 +4,7 @@
 # Author: Bernd Braemer
 # Description: Requirement file
 #
-# Copyright (c) 2020, Bernd Braemer.
+# Copyright (c) 2021, Bernd Braemer.
 #
 # Licensed under the GNU Affero General Public License v3.0 AGPLv3 as shown https://www.gnu.org/licenses/agpl-3.0.html
 #
