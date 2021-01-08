@@ -3,7 +3,7 @@
 # Copyright (c) 2020, Bernd Braemer.
 #
 
-FROM alpine:3.11
+FROM alpine:3.12
 MAINTAINER Bernd Braemer
 
 LABEL name="BB Django image"
@@ -23,7 +23,8 @@ RUN apk update \
     && apk add \ 
     tzdata \
     chrony \
-    python3 \ 
+    python3 \
+    py3-pip \ 
     libpq \
     gettext \
     postgresql-dev \
