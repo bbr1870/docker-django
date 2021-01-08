@@ -1,6 +1,6 @@
 # LICENSE AGPLv3
 #
-# Copyright (c) 2020, Bernd Braemer.
+# Copyright (c) 2021, Bernd Braemer.
 #
 
 FROM alpine:3.12
